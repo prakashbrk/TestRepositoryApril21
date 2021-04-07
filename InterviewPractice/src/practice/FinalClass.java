@@ -39,6 +39,7 @@ public class FinalClass {
 		obj.staticMethod();
 		childClass.staticMethod();
 		Test.staticMethod();
+		childClass.staticMethod();
 	
 	}
 
